@@ -6,7 +6,6 @@ document.addEventListener("DOMContentLoaded", () => {
     const answersElement = document.getElementById("answers");
     const prevButton = document.getElementById("prevButton");
     const nextButton = document.getElementById("nextButton");
-    let numberOfQuestion = 0;
 
     // Load the last question index from Local Storage
     function loadLastQuestionIndex() {
@@ -27,10 +26,15 @@ document.addEventListener("DOMContentLoaded", () => {
                 throw new Error(`HTTP error! Status: ${response.status}`);
             }
             const data = await response.json();
-            quizData = data.data; // Pobierz dane z klucza "data"
+            quizData = data.data;
 
-            // Load the last saved question index
-            currentQuestionIndex = loadLastQuestionIndex();
+            // Pobierz zapisany indeks lub ustaw na 0
+            const savedIndex = loadLastQuestionIndex();
+            currentQuestionIndex = Math.min(
+                Math.max(savedIndex, 0),
+                quizData.length - 1
+            );
+            console.log("Starting at question index:", currentQuestionIndex);
 
             loadQuestion(currentQuestionIndex);
         } catch (error) {
@@ -49,8 +53,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
 
         const questionData = quizData[index];
-        questionElement.textContent = `${numberOfQuestion++}.
-        questionData.question `;
+        questionElement.textContent = `${index + 1}. ${questionData.question}`;
 
         // Clear existing answers
         answersElement.innerHTML = "";
@@ -60,7 +63,7 @@ document.addEventListener("DOMContentLoaded", () => {
             const answerButton = document.createElement("button");
             answerButton.textContent = answer.answer;
             answerButton.addEventListener("click", () => {
-                answer.correct ? answerButton.style.backgroundColor = 'green' : answerButton.style.backgroundColor = 'red';
+                answerButton.style.backgroundColor = answer.correct ? "green" : "red";
             });
             const listItem = document.createElement("li");
             listItem.appendChild(answerButton);
@@ -88,6 +91,11 @@ document.addEventListener("DOMContentLoaded", () => {
             currentQuestionIndex++;
             loadQuestion(currentQuestionIndex);
         }
+    });
+
+    // Save state on page unload
+    window.addEventListener("beforeunload", () => {
+        saveCurrentQuestionIndex(currentQuestionIndex);
     });
 
     // Load quiz data on page load
