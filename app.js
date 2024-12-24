@@ -93,6 +93,28 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     });
 
+
+
+    // Event listener for keyboard
+    document.addEventListener("keydown", (event) => {
+        if (event.key === "ArrowLeft") { // Obsługa strzałki w lewo
+            if (currentQuestionIndex > 0) {
+                currentQuestionIndex--;
+                loadQuestion(currentQuestionIndex);
+            }
+        }
+    });
+    document.addEventListener("keydown", (event) => {
+        if (event.key === "ArrowRight") { // Obsługa strzałki w prawo
+            if (currentQuestionIndex > 0) {
+                currentQuestionIndex--;
+                loadQuestion(currentQuestionIndex);
+            }
+        }
+    });
+
+
+
     // Save state on page unload
     window.addEventListener("beforeunload", () => {
         saveCurrentQuestionIndex(currentQuestionIndex);
