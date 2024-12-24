@@ -1,0 +1,69 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f9;
+}
+.quiz-container {
+    max-width: 600px;
+    margin: 0 auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.question {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+.answers {
+    list-style: none;
+    padding: 0;
+}
+.answers li {
+    margin-bottom: 10px;
+}
+.answers button {
+    width: 100%;
+    padding: 10px;
+    font-size: 1em;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background: #f9f9f9;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.answers button:hover {
+    background: #ececec;
+}
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.navigation button {
+    padding: 10px 20px;
+    font-size: 1em;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.navigation button:disabled {
+    background: #ddd;
+    cursor: not-allowed;
+}
+.navigation .prev {
+    background: #007bff;
+    color: white;
+}
+.navigation .prev:hover:not(:disabled) {
+    background: #0056b3;
+}
+.navigation .next {
+    background: #28a745;
+    color: white;
+}
+.navigation .next:hover:not(:disabled) {
+    background: #1c7c33;
+}

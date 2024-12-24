@@ -3,9 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>TAK</title>
+    <link rel="stylesheet" href="/style.css">
+    <script src="app.js"></script>
+    
 </head>
 <body>
-    <p>yoo</p>
+    <div class="quiz-container">
+        <div class="question" id="question">Loading question...</div>
+        <ul class="answers" id="answers">
+            <!-- Answer buttons will be dynamically generated -->
+        </ul>
+        <div class="navigation">
+            <button class="prev" id="prevButton" disabled>Previous</button>
+            <button class="next" id="nextButton">Next</button>
+        </div>
+    </div>
 </body>
 </html>

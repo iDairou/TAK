@@ -1,0 +1,4887 @@
+{
+  "title": "Technika i Architektura Komputerów",
+  "id": "tak",
+  "data": [
+    {
+      "question": "Twórcą kalkulatorów mechanicznych byli",
+      "id": 115,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Wilhelm Schickard",
+          "correct": true
+        },
+        {
+          "answer": "Blaise Pascal",
+          "correct": true
+        },
+        {
+          "answer": "Gottfried Wilhelm Leibniz",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Al Chwarizmi",
+      "id": 116,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "wymyślił system pozycyjnego zapisywania liczb zwany arabskim",
+          "correct": false
+        },
+        {
+          "answer": "zapisywał rozwiązania problemów matematycznych w sposób algorytmiczny",
+          "correct": true
+        },
+        {
+          "answer": "utrzymywał się z nauki",
+          "correct": true
+        },
+        {
+          "answer": "Pisał pierwsze programy komputerowe",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Port szeregowy jest",
+      "id": 117,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "zawsze wolniejszy niż równoległy",
+          "correct": false
+        },
+        {
+          "answer": "instalowany we współczesnych notebookach",
+          "correct": true
+        },
+        {
+          "answer": "używany do podłączenia klawiatury",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Za twórcę pierwszego komputera uważa się",
+      "id": 118,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Konrada Zuse",
+          "correct": true
+        },
+        {
+          "answer": "Johna von Neumanna",
+          "correct": false
+        },
+        {
+          "answer": "Johna Backusa",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Czy poprawne są poniższe działania w systemie zmiennopozycyjnym z wykładu?",
+      "id": 119,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "111 0111 + 000 1000 = 111 0100",
+          "correct": false
+        },
+        {
+          "answer": "111 0111 + 000 0111 = 001 0101",
+          "correct": true
+        },
+        {
+          "answer": "001 0101 + 110 0101 = 111 0101",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "(001) jest okresem rozwinięcia liczby:",
+      "id": 120,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "1/7",
+          "correct": true
+        },
+        {
+          "answer": "1/5",
+          "correct": false
+        },
+        {
+          "answer": "6/7",
+          "correct": false
+        },
+        {
+          "answer": "2/7",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "7. Które z poniższych ciągów binarnych najlepiej przybliza podane wartości w systemie zmiennopozycyjnym z wykładu (3bity cechy + 4 mantysy U2)?",
+      "id": 121,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "100 0111 najlepiej przybliża 7/129",
+          "correct": true
+        },
+        {
+          "answer": "110 0111 najlepiej przybliża 7/33",
+          "correct": true
+        },
+        {
+          "answer": "101 0111 najlepiej przybliża 1/11",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Płyty CD-R są jednokrotnie zapisywane, gdyż",
+      "id": 122,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "lasery dokonują nieodwracalnego utrwalenia domen magnetycznych",
+          "correct": false
+        },
+        {
+          "answer": "powierzchnia płyty ulega nieodwracalnemu uszkodzeniu termicznemu",
+          "correct": true
+        },
+        {
+          "answer": "bity są tak gęsto upakowane, że zmiana jednego spowodowałaby kaskadę dalszych zmian",
+          "correct": false
+        },
+        {
+          "answer": "interferencja nowonagrywanych bitów ze starymi spowodowałaby zbyt wysoki poziom szumu",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Liczba cylindrów na dysku jest",
+      "id": 123,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "zależna od opcji formatowania",
+          "correct": true
+        },
+        {
+          "answer": "dwa razy większa, niż liczba talerzy",
+          "correct": false
+        },
+        {
+          "answer": "taka sama, jak liczba ścieżek na powierzchni talerza",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Aby podłączyć komputer do sieci konieczne są",
+      "id": 124,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "stałe łącze",
+          "correct": false
+        },
+        {
+          "answer": "modem",
+          "correct": false
+        },
+        {
+          "answer": "kabel",
+          "correct": false
+        },
+        {
+          "answer": "karta sieciowa",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "O wyborze marszruty pakietu w sieci decyduje",
+      "id": 125,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "operator",
+          "correct": false
+        },
+        {
+          "answer": "router",
+          "correct": true
+        },
+        {
+          "answer": "sam pakiet",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Test Turinga, to",
+      "id": 126,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Jedna z instrukcji maszyny Turinga",
+          "correct": false
+        },
+        {
+          "answer": "weryfikator inteligencji komputera",
+          "correct": true
+        },
+        {
+          "answer": "rodzaj warunku logicznego",
+          "correct": false
+        },
+        {
+          "answer": "weryfikator inteligencji człowiek",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Sztuczna inteligencja odniosła znaczące sukcesy w dziedzinie",
+      "id": 127,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "automatycznego tłumaczenia",
+          "correct": false
+        },
+        {
+          "answer": "rozpoznawania ludzkich twarzy",
+          "correct": false
+        },
+        {
+          "answer": "wspomagania decyzji",
+          "correct": true
+        },
+        {
+          "answer": "programowaniu gier",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Polskie znaki diakrytyczne koduje się w Windowsach za pomocą:",
+      "id": 128,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "kodu ASCII",
+          "correct": false
+        },
+        {
+          "answer": "bajtów o pierwszym bicie równym 1",
+          "correct": true
+        },
+        {
+          "answer": "dwóch bajtów",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "1 MB, to jest dokładnie",
+      "id": 129,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "10^6 bajtów",
+          "correct": false
+        },
+        {
+          "answer": "2^30 bajtów",
+          "correct": false
+        },
+        {
+          "answer": "2^33 bitów",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Metoda ścieżki krytycznej służy do",
+      "id": 130,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "znajdowania najkrótszej drogi w grafie",
+          "correct": false
+        },
+        {
+          "answer": "określania minimalnego czasu potrzebnego do zakończenia działania systemu współbieżnego",
+          "correct": true
+        },
+        {
+          "answer": "wykrywania błędów w obwodach logicznych przez namierzanie obszaru zakłóceń sygnału",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "W czasie konsolidacji programu dokonuje się",
+      "id": 131,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "ustalenia adresów faktycznych na podstawie względnych adresów wliczonych dla skompilowanych modułów",
+          "correct": true
+        },
+        {
+          "answer": "scalenie procedur znajdujących się w module w jedną bibliotekę",
+          "correct": false
+        },
+        {
+          "answer": "ukonkretnienie znaczeń identyfikatorów znajdujących się w innych modułach",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "W czasie kompilacji modułów",
+      "id": 132,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "ukonkretnia się znaczenie wszystkich identyfikatorów występujących w module",
+          "correct": false
+        },
+        {
+          "answer": "ustala się adresy względne alokacji wszystkich zmiennych zadeklarowanych wewnątrz modułu",
+          "correct": true
+        },
+        {
+          "answer": "powstaje kod wynikowy",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Wciśnięcie klawisza na klawiaturze powoduje zawsze przesłanie",
+      "id": 133,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "8 bitów",
+          "correct": false
+        },
+        {
+          "answer": "16 bitów",
+          "correct": false
+        },
+        {
+          "answer": "różnych sekwencji bitów w zależności od wybranego font",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Dla problemów NP. zupełnych",
+      "id": 134,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Nie są znane algorytmy wielomianowe",
+          "correct": true
+        },
+        {
+          "answer": "wiadomo, że nie ma algorytmów wielomianowych",
+          "correct": false
+        },
+        {
+          "answer": "(T/N) można w czasie wielomianowym sprawdzić czy obiekt jest rozw. danego problemu",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Każdy problem algorytmiczny",
+      "id": 135,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "można rozwiązać, jeśli dysponujemy odpowiednio dużą pamięcią i mamy odpowiednio dużo czasu",
+          "correct": false
+        },
+        {
+          "answer": "dla którego istnieje rozwiązanie ma rozwiązanie realizowalne dla wszystkich praktycznych danych",
+          "correct": false
+        },
+        {
+          "answer": "którego złożoność jest wykładnicza(2^n) jest praktycznie nie do zrealizowania na współczesnych komputerach dla danych rozmiaru n&gt;100.",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Podstawowym problemem Charlesa Babbage'a był",
+      "id": 136,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "brak pieniędzy",
+          "correct": true
+        },
+        {
+          "answer": "niedostatek technologii i niedoszacowanie problemów inżynierskich",
+          "correct": true
+        },
+        {
+          "answer": "kobieta",
+          "correct": false
+        },
+        {
+          "answer": "niedostatki inwencji",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Pomysł wykorzystania kart perforowanych został po raz pierwszy zrealizowany przez",
+      "id": 137,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Jacquesa de Vaucanson",
+          "correct": true
+        },
+        {
+          "answer": "Hermana Holleritha",
+          "correct": false
+        },
+        {
+          "answer": "Charlesa Babbage-a",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Liczba o zapisie 110 1000 w systemie zmiennopozycyjnym z wykładu",
+      "id": 138,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "jest ujemna",
+          "correct": true
+        },
+        {
+          "answer": "jest co do modułu mniejsza od 1/2",
+          "correct": true
+        },
+        {
+          "answer": "jest co do modułu mniejsza od 1(,bo wynosi ona -1/4)",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Czy poprawne są poniższe działania w systemie zmiennopozycyjnym z wykładu?",
+      "id": 139,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "111 0111 + 000 0111 = 001 0101",
+          "correct": true
+        },
+        {
+          "answer": "110 0111 + 110 0100 = 111 0110",
+          "correct": false
+        },
+        {
+          "answer": "101 0101 + 110 0100 = 111 0100",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "(101) jest okresem rozwinięcia liczby",
+      "id": 140,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "1/5 0.(0011)",
+          "correct": true
+        },
+        {
+          "answer": "1/10 0.0(0011)",
+          "correct": true
+        },
+        {
+          "answer": "4/5 0.(1100)",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "W 8-bitowym kodzie znak-moduł prosty",
+      "id": 141,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "11111111 reprezentuje wartość -1",
+          "correct": false
+        },
+        {
+          "answer": "10010000 reprezentuje wartość -16",
+          "correct": true
+        },
+        {
+          "answer": "11110000 reprezentuje wartość -112",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Cylindry na twardym dysku, to",
+      "id": 142,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "utworzone przez producenta zestawy ścieżek na których zapisuje się bity",
+          "correct": true
+        },
+        {
+          "answer": "równooddalone od środka fragmenty powierzchni na różnych talerzach powstałe w czasie formatowania",
+          "correct": true
+        },
+        {
+          "answer": "spiralnie ułożone fragmenty powierzchni, nad którymi przesuwają się głowice",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Protokół, dzięki któremu działa cały Internet, to",
+      "id": 143,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "http",
+          "correct": false
+        },
+        {
+          "answer": "ftp",
+          "correct": false
+        },
+        {
+          "answer": "telnet",
+          "correct": false
+        },
+        {
+          "answer": "TCP/IP",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Protokół umożliwiający bezpieczną transmisję plików, to",
+      "id": 144,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "ftp",
+          "correct": false
+        },
+        {
+          "answer": "http",
+          "correct": false
+        },
+        {
+          "answer": "ssh",
+          "correct": false
+        },
+        {
+          "answer": "scp",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Błędy numeryczne popełniane przez komputery biorą się z",
+      "id": 145,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "używania kodu znak-moduł prosty do reprezentacji liczb całkowitych",
+          "correct": false
+        },
+        {
+          "answer": "niemożności dokładnego reprezentowania większości liczb rzeczywistych",
+          "correct": true
+        },
+        {
+          "answer": "konieczności dopasowywania cech, co powoduje utratę paru bitów mantysy jednej z liczb",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Szybkość poboru danych z twardego dysku może zależeć od",
+      "id": 146,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "prędkości obrotu osi dysku",
+          "correct": true
+        },
+        {
+          "answer": "rozmieszczenia danych na powierzchni dysku",
+          "correct": true
+        },
+        {
+          "answer": "szybkości ruchu głowic",
+          "correct": true
+        },
+        {
+          "answer": "miejsca wpięcia HDD w płytę główną",
+          "correct": true
+        },
+        {
+          "answer": "zgrania częstotliwości odświeżania pamięci z prędkością transmisji danych narzuconą przez kontroler",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Maszyna Turinga jest",
+      "id": 147,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "tworem abstrakcyjnym, nigdy niezrealizowanym",
+          "correct": true
+        },
+        {
+          "answer": "prototypem dzisiejszych komputerów częściowo wykonanym w technologii mechanicznej",
+          "correct": false
+        },
+        {
+          "answer": "zdolna rozwiązać każde zadanie, które rozwiązują współczesne komputery",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Jako jedyne urządzenie wejściowe do komputera czasami spotyka się",
+      "id": 148,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "czytnik kodu paskowego",
+          "correct": true
+        },
+        {
+          "answer": "klawiaturę",
+          "correct": true
+        },
+        {
+          "answer": "myszkę",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Liczba 3/2004 w systemie binarnym ma",
+      "id": 149,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "skończone rozwinięcie",
+          "correct": false
+        },
+        {
+          "answer": "rozwinięcie okresowe o długości okresu mniejszej od 1111",
+          "correct": true
+        },
+        {
+          "answer": "rozwinięcie okresowe o długości okresu równej 1111",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "dodawanie zmiennopozycyjne jest",
+      "id": 150,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "dokładne",
+          "correct": false
+        },
+        {
+          "answer": "przemienne",
+          "correct": true
+        },
+        {
+          "answer": "rozdzielne względem mnożenia",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "(001) jest okresem rozwinięcia liczby",
+      "id": 151,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "1/7",
+          "correct": true
+        },
+        {
+          "answer": "1/5",
+          "correct": false
+        },
+        {
+          "answer": "1/10",
+          "correct": false
+        },
+        {
+          "answer": "6/7",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Standardowa pamięć RAM jest realizowana w technologii",
+      "id": 152,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "magnetycznej",
+          "correct": false
+        },
+        {
+          "answer": "elektromagnetycznej",
+          "correct": false
+        },
+        {
+          "answer": "elektrodynamicznej",
+          "correct": true
+        },
+        {
+          "answer": "optycznej",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "W 8-bitowym kodzie znak-modul prosty",
+      "id": 153,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "11111111 reprezentuje wartość 0",
+          "correct": false
+        },
+        {
+          "answer": "11110000 reprezentuje wartość -16",
+          "correct": false
+        },
+        {
+          "answer": "11110000 reprezentuje wartość -15",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "(0011) jest podstawowym okresem rozwinięcia liczby",
+      "id": 154,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "1/5",
+          "correct": true
+        },
+        {
+          "answer": "1/10, bo 0.0 (0011)",
+          "correct": true
+        },
+        {
+          "answer": "2/7",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Aby uniknąć przechwycenia numeru karty kredytowej przy transakcjach internetowych używa się",
+      "id": 155,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "haseł",
+          "correct": false
+        },
+        {
+          "answer": "szyfrowania",
+          "correct": true
+        },
+        {
+          "answer": "połączeń ppp",
+          "correct": false
+        },
+        {
+          "answer": "parametry biometryczne nadawcy",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Najstarsze znane i używane do dziś powszechnie algorytmy pochodzą ze",
+      "id": 156,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Starożytności",
+          "correct": true
+        },
+        {
+          "answer": "Średniowiecza",
+          "correct": false
+        },
+        {
+          "answer": "XVIII wieku",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Buforów używa się przy transmisji danych z dysku",
+      "id": 157,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "tylko wtedy, gdy użytkownik to wyraźnie wyspecyfikuje",
+          "correct": false
+        },
+        {
+          "answer": "tylko wtedy, gdy może to przyspieszyć transmisję",
+          "correct": false
+        },
+        {
+          "answer": "zawsze",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Spośród różnych sposobów podłączenia się do sieci najmniej bezpieczne jest połączenie",
+      "id": 158,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "modemowe",
+          "correct": false
+        },
+        {
+          "answer": "za pomocą TV kablowej",
+          "correct": true
+        },
+        {
+          "answer": "ISDN",
+          "correct": false
+        },
+        {
+          "answer": "DSL",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Które z poniższych ciągów binarnych najlepiej przybliza podane wartości w systemie zmiennopozycyjnym z wykładu (3bity cechy + 4 mantysy U2)?",
+      "id": 159,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "100 0111 najlepiej przybliża 7/129",
+          "correct": true
+        },
+        {
+          "answer": "110 0111 najlepiej przybliża 7/33",
+          "correct": true
+        },
+        {
+          "answer": "100 0110 najlepiej przybliża 1/23",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "1 terabajt(1TB), to dokładnie",
+      "id": 160,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "10^12 bajtów",
+          "correct": false
+        },
+        {
+          "answer": "2^40 bajtów",
+          "correct": true
+        },
+        {
+          "answer": "2^43 bitów",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Pakiety mają wielkość rzędu",
+      "id": 161,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "kilkunastu bajtów",
+          "correct": false
+        },
+        {
+          "answer": "kilkuset bajtów",
+          "correct": true
+        },
+        {
+          "answer": "kilkuset kilobajtów",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Ile co najmniej bitów potrzeba, żeby reprezentować w kodzie uzupełnieniowym wszystkie liczby całkowite o module mniejszym od miliarda?",
+      "id": 162,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "16",
+          "correct": false
+        },
+        {
+          "answer": "30",
+          "correct": false
+        },
+        {
+          "answer": "31",
+          "correct": true
+        },
+        {
+          "answer": "3",
+          "correct": false
+        },
+        {
+          "answer": "4",
+          "correct": false
+        },
+        {
+          "answer": "6",
+          "correct": false
+        },
+        {
+          "answer": "14",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Użycie systemu zmiennopozycyjnego w stosunku do stałopozycyjnego",
+      "id": 163,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "zwiększa liczbę reprezentowanych wartości",
+          "correct": true
+        },
+        {
+          "answer": "zwiększa dokładność w całym przedziale reprezentowalności",
+          "correct": true
+        },
+        {
+          "answer": "zwiększa zakres reprezentowalności",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Algorytm Euklidesa służy do",
+      "id": 164,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "znajdowania liczb pierwszych",
+          "correct": false
+        },
+        {
+          "answer": "znajdowania największego wspólnego dzielnika",
+          "correct": true
+        },
+        {
+          "answer": "znajdowania najmniejszego wspólnego dzielnika",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Operacje na bitach",
+      "id": 165,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "są wykonywane przez procesor po kolei, nigdy jednocześnie w danym momencie",
+          "correct": false
+        },
+        {
+          "answer": "są tylko cztery: NOT, OR, XOR i AND",
+          "correct": true
+        },
+        {
+          "answer": "można składać tworząc z nich bardziej skomplikowane układy logiczne",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "W systemie zmiennopozycyjnym z wykładu",
+      "id": 166,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "każda z wartości z przedziału -8..7 może być reprezentowana, choć niektóre z błędem",
+          "correct": true
+        },
+        {
+          "answer": "liczba tych wartości, które są reprezentowane bez błędu jest skończona",
+          "correct": false
+        },
+        {
+          "answer": "wszystkie liczby całkowite z przedziału reprezentowalności są reprezentowane bez błędu",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "W systemie zmiennopozycyjnym, w którym cechę reprezentujemy za pomocą jednego bajtu, a mantysę za pomocą 5 bajtów",
+      "id": 167,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "każda z wartości z przedziału -8..7 może być reprezentowana, choć niektóre z błędem",
+          "correct": false
+        },
+        {
+          "answer": "liczba tych wartości, które są reprezentowane bez błędu jest skończona",
+          "correct": true
+        },
+        {
+          "answer": "wszystkie liczby całkowite z przedziału reprezentowalności są reprezentowane bez błędu",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Podstawowym zadaniem karty sieciowej jest",
+      "id": 168,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "udostępnienie ściany przeciwogniowej",
+          "correct": false
+        },
+        {
+          "answer": "wzmocnienie sygnału",
+          "correct": false
+        },
+        {
+          "answer": "konwersja formatów danych między komputerem, a siecią",
+          "correct": true
+        },
+        {
+          "answer": "zabezpieczenie przed wirusami",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Rejestry, to",
+      "id": 169,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "bardzo szybka podręczna pamięć procesora",
+          "correct": true
+        },
+        {
+          "answer": "zestawy indeksów w bazach danych",
+          "correct": false
+        },
+        {
+          "answer": "pamięć pośrednia używana przy transmisji danych na dysk",
+          "correct": false
+        },
+        {
+          "answer": "Obszar dysku , na którym windowsy przechowuja parametry",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "W polskim wydaniu podręcznika Brooksheara na okładce znajduje się",
+      "id": 170,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "komputer",
+          "correct": false
+        },
+        {
+          "answer": "klucz",
+          "correct": true
+        },
+        {
+          "answer": "zdjęcie CPU",
+          "correct": false
+        },
+        {
+          "answer": "schemat sieci komputerowej",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Sieć otwarta, to sieć",
+      "id": 171,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "nieodporna na ataki",
+          "correct": false
+        },
+        {
+          "answer": "niezabezpieczona hasłem",
+          "correct": false
+        },
+        {
+          "answer": "która łączy komputery wewnątrz przedsiębiorstwa",
+          "correct": false
+        },
+        {
+          "answer": "do której użytkownicy mogą się wpinać na zasadzie dostępu publicznego",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Sterowniki, to",
+      "id": 172,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "urządzenia, za pomocą których przejmujemy kontrolę nad programami",
+          "correct": false
+        },
+        {
+          "answer": "programy, za pomocą których komunikujemy się z urządzeniami podłączonymi do magistrali",
+          "correct": true
+        },
+        {
+          "answer": "układy logiczne przekierowujące sygnały",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Dodając w procesorze zmiennopozycyjnym 1,4 + 8,8 możemy być pewni, że",
+      "id": 173,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "argumenty reprezentowane są dokładnie",
+          "correct": false
+        },
+        {
+          "answer": "wynik będzie dokładny",
+          "correct": false
+        },
+        {
+          "answer": "nie trzeba będzie zaokrąglać wyniku",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Przesłanie hasła przy zdalnym logowaniu się",
+      "id": 174,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "może być niebezpieczne, gdy używamy niektórych usług sieciowych",
+          "correct": true
+        },
+        {
+          "answer": "nie jest stosowane przy poważnych zastosowaniach takich, jak logowanie się do systemów bankowych",
+          "correct": false
+        },
+        {
+          "answer": "zawsze jest poprzedzone szyfrowaniem",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Prędkość pobierania danych z twardego dysku w największym stopniu zależy od",
+      "id": 175,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "szybkości magistrali",
+          "correct": false
+        },
+        {
+          "answer": "częstotliwości zegara procesora",
+          "correct": false
+        },
+        {
+          "answer": "stopnia i sposobu jego zapełnienia",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Na płytach CD dane zapisywane są",
+      "id": 176,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "koncentrycznie",
+          "correct": false
+        },
+        {
+          "answer": "spiralnie",
+          "correct": true
+        },
+        {
+          "answer": "fizycznie w tej samej kolejności, w której zostały przesłane",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Żeby podłączyć komputer do sieci przez telefoniczną linię analogową konieczne jest, aby mieć",
+      "id": 177,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "kartę sieciową",
+          "correct": false
+        },
+        {
+          "answer": "stałe łącze",
+          "correct": false
+        },
+        {
+          "answer": "port USB",
+          "correct": false
+        },
+        {
+          "answer": "modem",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Języki programowania wysokiego poziomu umożliwiają napisanie kodu programu",
+      "id": 178,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "bezpośrednio w języku procesora który po skompilowaniu nadaje się od razu do wykonania",
+          "correct": false
+        },
+        {
+          "answer": "który po skompilowaniu nadaje się od razu do wykonania",
+          "correct": false
+        },
+        {
+          "answer": "który po skompilowaniu i konsolidacji nadaje się do wykonania",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Wieloprocesowość",
+      "id": 179,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "to to samo co wieloprocesorowość",
+          "correct": false
+        },
+        {
+          "answer": "przez niektóre systemy operacyjne nie jest obsługiwana",
+          "correct": true
+        },
+        {
+          "answer": "występuje w systemie Windows 95",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Asemblery",
+      "id": 180,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "umożliwiły adresowanie symboliczne",
+          "correct": true
+        },
+        {
+          "answer": "zostały wymyślone w latach 50-tych XX wieku",
+          "correct": true
+        },
+        {
+          "answer": "są używane do dziś",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Prędkość pracy twardego dysku jest zależna od",
+      "id": 181,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "prędkości kątowej talerzy",
+          "correct": true
+        },
+        {
+          "answer": "liczby talerzy",
+          "correct": false
+        },
+        {
+          "answer": "liczby cylindrów",
+          "correct": false
+        },
+        {
+          "answer": "prędkości&nbsp;przesuwu&nbsp;głowic",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Problemy nierozstrzygalne",
+      "id": 182,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "których nie da się algorytmicznie rozwiązać",
+          "correct": true
+        },
+        {
+          "answer": "nie istnieją",
+          "correct": false
+        },
+        {
+          "answer": "to problemy, dla których nieznane są jeszcze rozwiązania, ale możliwe, że w końcu ktoś je wymyśli",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Gdy dodajemy dwie liczby zmiennopozycyjne, może się zdarzyć że",
+      "id": 183,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "wynik będzie równy jednej z nich, mimo że druga nie jest zerem",
+          "correct": true
+        },
+        {
+          "answer": "wynik zależy od tego, którą liczbę denormalizujemy",
+          "correct": false
+        },
+        {
+          "answer": "dodając dwie liczby ujemne dostaniemy wynik dodatni",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Podział czasu, to technika",
+      "id": 184,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "umożliwiająca transfer danych w określonych ramkach czasowych w sieci",
+          "correct": false
+        },
+        {
+          "answer": "umożliwiająca wykonywanie przez jeden procesor kilku jednocześnie działających procesów",
+          "correct": true
+        },
+        {
+          "answer": "pozwalająca komputerowi na przyspieszenie obliczeń",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Każdy bajt kodu tekstowego ASCII",
+      "id": 185,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "jest identycznie interpretowany przez wszystkie systemy komputerowe, o ile jego pierwszym bitem jest 0 i jego wartość liczbowa przekracza 31",
+          "correct": true
+        },
+        {
+          "answer": "koduje jakąś literę",
+          "correct": false
+        },
+        {
+          "answer": "ma na początku jedynkę",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Abraham Stern",
+      "id": 186,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "zbudował kalkulator, który mechanicznie wyciągał pierwiastki",
+          "correct": true
+        },
+        {
+          "answer": "był członkiem Towarzystwa Przyjaciół Nauk",
+          "correct": true
+        },
+        {
+          "answer": "był zegarmistrzem",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "OCR, to oprogramowanie za pomocą którego",
+      "id": 187,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "rozpoznajemy charakter pisma ręcznego",
+          "correct": false
+        },
+        {
+          "answer": "weryfikujemy podpisy",
+          "correct": false
+        },
+        {
+          "answer": "przygotowujemy dokumenty tekstowe do druku",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Pamięć na twardym dysku jest realizowana w technologii",
+      "id": 188,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "magnetycznej",
+          "correct": true
+        },
+        {
+          "answer": "laserowej",
+          "correct": false
+        },
+        {
+          "answer": "optycznej",
+          "correct": false
+        },
+        {
+          "answer": "elektrodynamicznej",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "W kodzie znak-moduł odwrotny",
+      "id": 189,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "każda liczba ma jednoznaczne przedstawienie",
+          "correct": false
+        },
+        {
+          "answer": "aby zmienić wartość na przeciwną zmieniamy tylko pierwszy bit na przeciwny",
+          "correct": false
+        },
+        {
+          "answer": "jest więcej liczb ujemnych niż dodatnich",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Czy poprawne są poniższe działania w systemie zmiennopozycyjnym z wykładu?",
+      "id": 190,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "100 0100 + 100 0101 = 101 0101",
+          "correct": true
+        },
+        {
+          "answer": "111 0111 + 000 0111 = 001 0101",
+          "correct": true
+        },
+        {
+          "answer": "110 0111 + 110 0100 = 110 0111",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Pomysł wykorzystania kart perforowanych został po raz pierwszy zrealizowany przez",
+      "id": 191,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Jacquesa de Vaucanson",
+          "correct": true
+        },
+        {
+          "answer": "Hermana Holleritha",
+          "correct": false
+        },
+        {
+          "answer": "Charlesa Babbage-a",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Ukrywanie bitu 1/2 w systemie zmiennopozycyjnym jest",
+      "id": 1917,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "przyczyną pewnych kłopotów z reprezentacją zera - trudno je odróżnić od 1/2",
+          "correct": true
+        },
+        {
+          "answer": "stosowane, aby zwiększyć dwukrotnie zakres reprezentowalności",
+          "correct": false
+        },
+        {
+          "answer": "powszechną praktyką w większości komercyjnych realizacji arytmetyki zmiennopozycyjnej",
+          "correct": true
+        },
+        {
+          "answer": "spowodowane chęcią uzyskania jednego dodatkowego bitu precyzji",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Strategia minimaksowa jest",
+      "id": 1915,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "algorytmem optymalizującym przeplywy w sieciach",
+          "correct": false
+        },
+        {
+          "answer": "metodą oceny pozycji w grach dwuosobowych",
+          "correct": true
+        },
+        {
+          "answer": "wariantem strategii alfa-beta&lt;",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Zabezpieczenie przed podglądaniem przy transmisji numeru karty kredytowej przez siec uzyskuje sie przez",
+      "id": 1916,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "szyfrowanie kluczem publicznym",
+          "correct": true
+        },
+        {
+          "answer": "hasla jednorazowe",
+          "correct": false
+        },
+        {
+          "answer": "parametry biomedyczne odbiorcy",
+          "correct": false
+        },
+        {
+          "answer": "haseł wielokrotnego użytku",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "C.A.R. Hoare jest autorem",
+      "id": 1918,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "koncepcji wskaźników",
+          "correct": true
+        },
+        {
+          "answer": "logiki programów",
+          "correct": true
+        },
+        {
+          "answer": "instrukcji wyboru",
+          "correct": true
+        },
+        {
+          "answer": "Algorytmu quicksort",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Kolejne sektory na jednej ścieżce typowego twardego dysku zawierają",
+      "id": 1919,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "dane w tej kolejności, w jakiej zostały zapisane",
+          "correct": false
+        },
+        {
+          "answer": "dane z jednego pliku, które muszą być umieszczone w bezpośrednim sąsiedztwie",
+          "correct": false
+        },
+        {
+          "answer": "dane zazwyczaj z różnych plików umieszczone tak, aby odczyt uczynić możliwie płynnym",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Mając dany wzorzec odcinka jednostkowego i używając jedynie cyrkla i linijki możemy",
+      "id": 1920,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "obliczyć pierwiastek trzeciego stopnia z dwóch",
+          "correct": false
+        },
+        {
+          "answer": "pomnożyć dowolne dwie liczby",
+          "correct": true
+        },
+        {
+          "answer": "obliczyć pi",
+          "correct": false
+        },
+        {
+          "answer": "Spierwiastkować liczbę",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Zwiększenie częstości zegara w procesorze",
+      "id": 1921,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "jest możliwe, ale może spowodować przegrzanie procesora",
+          "correct": true
+        },
+        {
+          "answer": "jest możliwe, ale może spowodować spowolnienie pracy komputera",
+          "correct": true
+        },
+        {
+          "answer": "jest niemożliwe: zegar ustawia się raz na zawsze na etapie produkcji",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Kiedy stosujemy szybszy algorytm, wykonując mniej działań na liczbach całkowitych",
+      "id": 1922,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "uzyskamy szybszy i dokładniejszy wynik",
+          "correct": false
+        },
+        {
+          "answer": "uzyskamy szybszy wynik kosztem jakości rozwiązania",
+          "correct": false
+        },
+        {
+          "answer": "uzyskamy dokładnie ten sam wynik, tyle że szybciej",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Dodając n liczb dodatnich w systemie zmiennopozycyjnym najlepszy wynik otrzymamy",
+      "id": 1923,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "taki sam, niezależnie od kolejności dodawania",
+          "correct": false
+        },
+        {
+          "answer": "dodając je od najmniejszej do największej",
+          "correct": true
+        },
+        {
+          "answer": "dodając je od największej do najmniejszej",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Automat szachowy skonstruowany przez Farkasa von Kempelena powstał",
+      "id": 1924,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "na przełomie XVIII i XIX wieku",
+          "correct": true
+        },
+        {
+          "answer": "w XX wieku",
+          "correct": false
+        },
+        {
+          "answer": "w Wiedniu",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Monitory katodowe",
+      "id": 1925,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "można stosować wszędzie tam, gdzie stosuje się monitory ciekłokrystaliczne",
+          "correct": false
+        },
+        {
+          "answer": "w niektórych zastosowaniach są nie do zastąpienia monitorami ciekłokrystalicznymi",
+          "correct": true
+        },
+        {
+          "answer": "są zdrowsze w użytkowaniu niż ciekłokrystaliczne",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Zeby podlączyc komputer do sieci przez telefoniczną linie cyfrową konieczne jest, aby miec",
+      "id": 1926,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "port USB",
+          "correct": false
+        },
+        {
+          "answer": "karte sieciową",
+          "correct": false
+        },
+        {
+          "answer": "stale lącze",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Płyta CD RW umożliwia",
+      "id": 1927,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "skasowanie wszystkich danych i zaczęcie zapisywania od nowa",
+          "correct": true
+        },
+        {
+          "answer": "nadpisanie nowych danych w miejscu zwolnionym przez usunięty plik",
+          "correct": false
+        },
+        {
+          "answer": "dopisywanie danych na końcu, jeśli nie jest jeszcze zbyt zapełniona",
+          "correct": true
+        },
+        {
+          "answer": "fizyczne usunięcie części zapisanych danych",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Kiedy stosujemy szybszy algorytm, wykonując mniej działań zmiennopozycyjnych",
+      "id": 1928,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "dostaniemy wynik szybciej, ale stracimy na dokładności wyniku",
+          "correct": false
+        },
+        {
+          "answer": "dostaniemy wynik szybciej i zyskamy zazwyczaj na dokładności wyniku",
+          "correct": true
+        },
+        {
+          "answer": "dostaniemy zawsze ten sam wynik, tylko nieco szybciej",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Liczba ścieżek na dysku jest",
+      "id": 1929,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "taka sama, jak liczba cylindrow",
+          "correct": false
+        },
+        {
+          "answer": "ustalona przez producenta",
+          "correct": true
+        },
+        {
+          "answer": "zalezna od opcji formatowania",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Uzycie systemu stalopozycyjnego w stosunku do zmiennopozycyjnego",
+      "id": 1930,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "zwieksza liczbe reprezentowanych wartości",
+          "correct": false
+        },
+        {
+          "answer": "zwieksza zakres reprezentowalności",
+          "correct": false
+        },
+        {
+          "answer": "zwieksza dokladnośc w calym przedziale reprezentowalności",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Port równolegly jest",
+      "id": 1931,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "uzywany do podlączenia klawiatury",
+          "correct": false
+        },
+        {
+          "answer": "nieodpowiedni do pracy z drukarką",
+          "correct": false
+        },
+        {
+          "answer": "instalowany we wspólczesnych notebookach",
+          "correct": false
+        },
+        {
+          "answer": "Zawsze wolniejszy niż szeregowy",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Aby określić złożoność pesymistyczną algorytmu musimy odnieść ją do:",
+      "id": 1932,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "wszystkich mozliwych do wyobrazenia algorytmów",
+          "correct": false
+        },
+        {
+          "answer": "wszystkich mozliwych danych",
+          "correct": true
+        },
+        {
+          "answer": "konkretnych danych",
+          "correct": false
+        },
+        {
+          "answer": "konkretnego rozkladu pewnej zmiennej losowej",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Do magistrali podłącza się",
+      "id": 1933,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Wentylator",
+          "correct": false
+        },
+        {
+          "answer": "Twardy dysk",
+          "correct": true
+        },
+        {
+          "answer": "Kabel zasilający",
+          "correct": false
+        },
+        {
+          "answer": "Pamięć",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Operacje dominujące w algorytmie to takie operacje",
+      "id": 1934,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Że dla żadnych danych żadna operacja nie wykonuje się więcej razy że dla żądanych danych żadna operacja nie wykonuje się więcej razy, jeśli rozważymy jedynie rząd wielkości",
+          "correct": true
+        },
+        {
+          "answer": "Że wykonanie jednej z nich trwa najdłużej ze wszystkich możliwych operacji",
+          "correct": false
+        },
+        {
+          "answer": "Które wykonują się najszybciej dla każdych danych",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "W systemie zmiennopozycyjnym, w którym ceche reprezentujemy za pomocą jednego bajtu, a mantyse za pomocą 5 bajtów",
+      "id": 1935,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "kazda z wartości z przedzialu -1000..1000 moze byc reprezentowana, choc niektóre z bledem",
+          "correct": true
+        },
+        {
+          "answer": "wszystkie liczby calkowite z przedzialu reprezentowalności są reprezentowane bez bledu",
+          "correct": false
+        },
+        {
+          "answer": "liczba tych wartości, które są reprezentowane bez bledu jest skonczona",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Przerzutnik sluzy do",
+      "id": 1936,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "zapamiętywania danych",
+          "correct": true
+        },
+        {
+          "answer": "konwersji danych",
+          "correct": false
+        },
+        {
+          "answer": "przekierowywania ruchu na magistrali",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Strategia alfa-beta jest",
+      "id": 1937,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "uzywana w programach OCR",
+          "correct": false
+        },
+        {
+          "answer": "popularną metodą oceny sily ruchu w grach 2-osobowych",
+          "correct": true
+        },
+        {
+          "answer": "heurystyką sluzącą do rozwiązywania problemów NP-zupelnych",
+          "correct": false
+        },
+        {
+          "answer": "wariantem strategii minimaksowej",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Wielowątkowośc, to pojecie, które",
+      "id": 1938,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "wystepuje tylko w architekturach wieloprocesorowych",
+          "correct": false
+        },
+        {
+          "answer": "wystepuje w zagadnieniach programowania wspólbieznego",
+          "correct": true
+        },
+        {
+          "answer": "wystepuje przy programowaniu obiektowym",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Zlozonośc pesymistyczna moze dotyczyc",
+      "id": 1939,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "wielkości pamieci potrzebnej do rozwiazania zadania algorytmicznego",
+          "correct": true
+        },
+        {
+          "answer": "czasu mierzonego liczbą kroków wykonania algorytmu",
+          "correct": true
+        },
+        {
+          "answer": "stopnia skomplikowania tekstu algorytmu",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Dodawanie stałopozycyjne jest",
+      "id": 1940,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "rozdzielne wzgledem mnozenia",
+          "correct": false
+        },
+        {
+          "answer": "Przemienne",
+          "correct": true
+        },
+        {
+          "answer": "Dokładne",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Płyty CD-RW są wielokrotnie zapisywane:",
+      "id": 1941,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Ale tylko po kolei , nie da się wcisnąć danych w środek",
+          "correct": true
+        },
+        {
+          "answer": "Tak, ze powierzchnia płyty ulega odwracalnemu termicznemu uszkodzeniu",
+          "correct": false
+        },
+        {
+          "answer": "Dzięki temu, że lasery dokonują odwracalnego utrwalenia domen magnetycznych",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Płyty CD-R są jednokrotnie zapisywalne ponieważ",
+      "id": 1942,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Każda zmiana paramterów powierzchni płyty kompaktowej jest nieodwracalna",
+          "correct": false
+        },
+        {
+          "answer": "Interferencja nowonagrywalnych bitów ze starymi spowodowałaby zbyt wysoki poziom szumu",
+          "correct": false
+        },
+        {
+          "answer": "Bity są tak gęsto upakowane, że zmiana jednego spowodowałaby kaskadę dalszych zmian",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "John Backus zasłynął jako twórca",
+      "id": 1943,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Tranzystora",
+          "correct": false
+        },
+        {
+          "answer": "Myszy",
+          "correct": false
+        },
+        {
+          "answer": "Komputera IBM 404",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Nigdy nie uzyskamy przepełnienia zmiennopozycyjnego w kodzie uzupełnieniowym do 2",
+      "id": 3390,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "odejmując liczbę dodatnią od dodatniej",
+          "correct": true
+        },
+        {
+          "answer": "odejmując liczbę ujemną od ujemnej",
+          "correct": true
+        },
+        {
+          "answer": "negując liczbę",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Do problemów NP-zupełnych należy problem",
+      "id": 2211,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "spełnialności formuły logicznej",
+          "correct": true
+        },
+        {
+          "answer": "Podziału zbioru na dwa podzbiory o równej sumie",
+          "correct": true
+        },
+        {
+          "answer": "tautologicznści formuły logicznej",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Pierwszy kompilator Pascala napisany przez N. Wirtha na początku lat 70-tych:",
+      "id": 3154,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "był napisany w Pascalu",
+          "correct": true
+        },
+        {
+          "answer": "kosztował około 1000 dolarów",
+          "correct": false
+        },
+        {
+          "answer": "tłumaczył program na wirtualną maszynę nieistniejącą w rzeczywistości",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Komputer Eniac zbudowany w roku 1945:",
+      "id": 3155,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "wymagał potężnego systemu chłodzeniai (rzędu 100 kW)",
+          "correct": true
+        },
+        {
+          "answer": "powstał w Princeton",
+          "correct": false
+        },
+        {
+          "answer": "został zaprogramowany przez von Neumanna.",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p class=\"western\"><span>Aby określić złożoność pesymistyczną algorytmu musimy odnieść ją do:</span></p>",
+      "id": 2212,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<p class=\"western\"><span>konkretnych danych</span></p>",
+          "correct": false
+        },
+        {
+          "answer": "<p class=\"western\"><span>wszystkich możliwych do wyobrażenia algorytmów</span></p>",
+          "correct": true
+        },
+        {
+          "answer": "<p class=\"western\"><span>konkretnego rozkładu pewnej zmiennej losowej</span></p>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p class=\"western\"><span>Relacja \"Problem A jest sprowadzalny do problemu B\" jest relacją</span></p>",
+      "id": 2213,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<p class=\"western\"><span>przechodnią</span></p>",
+          "correct": true
+        },
+        {
+          "answer": "<p class=\"western\"><span>częściowego porządku</span></p>",
+          "correct": false
+        },
+        {
+          "answer": "<p class=\"western\"><span>równoważności</span></p>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Kto udostępnia klucz publiczny?",
+      "id": 2406,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Nadawca",
+          "correct": true
+        },
+        {
+          "answer": "Nadawca i Odbiorca",
+          "correct": false
+        },
+        {
+          "answer": "Odbiorca",
+          "correct": false
+        },
+        {
+          "answer": "Router",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Który obrazek najczęśćiej przewija się w tekście polskiego wydania podręcznika Brooksheara?",
+      "id": 2562,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "klucz",
+          "correct": true
+        },
+        {
+          "answer": "dom",
+          "correct": false
+        },
+        {
+          "answer": "komputer",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span>Dlaczego Euklides2 był szybszy od euklides 1</span>",
+      "id": 3055,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span>bo c. fibonaciego rosnie wykladniczo szybko</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>bo c.fibonaciego rosnie logartymicznie wolno</span>",
+          "correct": false
+        },
+        {
+          "answer": "[cos o rosnących indeksach c. fibonaciego]",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Kiedy program komputerowy pokonał mistrza świata w Szachy?",
+      "id": 3056,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Nigdy",
+          "correct": false
+        },
+        {
+          "answer": "Ponad 10 lat temu",
+          "correct": true
+        },
+        {
+          "answer": "W ciągu ostatnich 15 lat",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Programy komputerowe",
+      "id": 2616,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Muszą zawierać krok po kroku kolejno wykonywane instrukcje",
+          "correct": true
+        },
+        {
+          "answer": "Można pisać w języku naturalnym<p></p>\n<p>&nbsp;</p>",
+          "correct": false
+        },
+        {
+          "answer": "Można edytować w dowolnym edytorze tekstu",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "(010) jest okresem rozwinięcia liczby",
+      "id": 2617,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "1/5",
+          "correct": false
+        },
+        {
+          "answer": "2/7",
+          "correct": true
+        },
+        {
+          "answer": "1/10",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Komputer ENIAC powstały w 1945 roku:",
+      "id": 2618,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "powstał w Princestone",
+          "correct": false
+        },
+        {
+          "answer": "posiadał metodę rekursji",
+          "correct": false
+        },
+        {
+          "answer": "ważył ponad 27 ton",
+          "correct": true
+        },
+        {
+          "answer": "opierał się na FORTRANIE",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Charles Babbage stowrzył maszynę różnicową aby:",
+      "id": 2619,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "zaimponować lady Lovelance",
+          "correct": false
+        },
+        {
+          "answer": "sprawnie dodawać i odejmować mechanicznie",
+          "correct": false
+        },
+        {
+          "answer": "móc policzyć wartośc każdej funkcji, nie tylko wielomianowej",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p>Sprawdź poprawność działań w 8 bitowym kodzie uzupełnieniowym</p>",
+      "id": 2620,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "1000 0000 + 0000 0001 = 1000 0001",
+          "correct": true
+        },
+        {
+          "answer": "1111 0000 + 1000 1111 = 1111 1111",
+          "correct": false
+        },
+        {
+          "answer": "0111 1111 + 1000 0000 = 1111 1111",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "W systemie zmiennopozycyjnym, w którym ceche reprezentujemy za pomocą jednego bajtu, a mantyse za pomocą 16 bajtów",
+      "id": 2621,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Każda z wartości przedziału -8...7 może być reprezentowana, choć niektóre z błędem",
+          "correct": true
+        },
+        {
+          "answer": "Wszystkie liczby całkowite z przedziału reprezentowalności są reprezentowane bez błędu",
+          "correct": true
+        },
+        {
+          "answer": "Liczba tych wartości, które są reprezentowane bez błędu, jest skończona",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Twórcami kalkulatorów mechanicznych byli :",
+      "id": 2622,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Wilhelm Schickard",
+          "correct": true
+        },
+        {
+          "answer": "Blaise Pascal",
+          "correct": true
+        },
+        {
+          "answer": "Heron",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Następujące działania w kodzie uzupełnieniowym są poprawnie wykonane dla liczb&nbsp; całkowitych 8-bitowych",
+      "id": 2623,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "1111 1111 + 0000 0001 = 0000 0000",
+          "correct": true
+        },
+        {
+          "answer": "1000 0000 + 1000 0000 = 0000 0000",
+          "correct": false
+        },
+        {
+          "answer": "1010 1010 + 1010 1010 = 1101 0100",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Aby określić złożoność pesymistyczną algorytmu musimy odnieść ją do:",
+      "id": 2624,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Wszystkich możliwych danych",
+          "correct": true
+        },
+        {
+          "answer": "Konkretnego rozkładu pewnej zmiennej losowej",
+          "correct": true
+        },
+        {
+          "answer": "Wszystkich możliwych do wyobrażenia algorytmów",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "(010) jest okresem rozwinięcia liczby",
+      "id": 2625,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "1/5",
+          "correct": false
+        },
+        {
+          "answer": "2/7",
+          "correct": true
+        },
+        {
+          "answer": "1/10",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "(0110) jest okresem podstawowym :",
+      "id": 2626,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "2/5",
+          "correct": false
+        },
+        {
+          "answer": "1/10",
+          "correct": true
+        },
+        {
+          "answer": "4/5",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Uniknąć przechwycenia numeru karty kredytowej przy transakcjach internetowych możemy za pomocą",
+      "id": 2627,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Połączeń ppp",
+          "correct": true
+        },
+        {
+          "answer": "Haseł jednorazowych",
+          "correct": false
+        },
+        {
+          "answer": "Haseł wielokrotnych",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span>Kompilacja kodu źródłowego to:</span>",
+      "id": 2647,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "inaczej jego interpretacja.",
+          "correct": false
+        },
+        {
+          "answer": "na przykład tłumaczenie programu zapisanego w języku asemblerowym na program wyrażony języku maszynowym.",
+          "correct": true
+        },
+        {
+          "answer": "<span>proces gwarantujący możliwość wykonania programu skompilowanego na komputerze A, na dowolnym innym komputerze B, niezależnie od zgodności programowej komputerów A i B.</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span>Dowolny układ logiczny można zbudować:</span>",
+      "id": 3057,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span>żywając wyłącznie bramek OR</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>używając wyłącznie bramek NAND</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>używając bramek typu NOT, AND oraz OR</span>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span>W warszawskiej książce telefonicznej, wyszukując binarnie:</span>",
+      "id": 3058,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span>Kluczowe dla potrzebnej liczby przeczytanych nazwisk jest ich uporządkowanie</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>Wystarczy przeczytać 30 nazwisk</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>Liczba przeczytanych nazwisk będzie zawsze jednakowa</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span>Liczba wszystkich możliwych funkcji Boolowskich odwzorowujących 3 wartości wejściowe w 2 wartości wyjściowe to:</span>",
+      "id": 3059,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span>2</span><sup>9&nbsp;</sup><span>= 512</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>2</span><sup>12</sup><span>&nbsp;= 4096</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>2</span><sup>16</sup><span>&nbsp;= 65536</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Z<span>apisem binarnym (w 4 bitach) liczby całkowitej -3 jest:</span>",
+      "id": 3060,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span>1011 przy kodowaniu znak-moduł</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>1101 przy kodowaniu uzupełnień do 2</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>1011 przy kodowaniu uzupełnień do 2</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span>Układy scalone:</span>",
+      "id": 3061,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span>Zawsze zwracają wynik zależny jedynie od ostatnio otrzymanych danych</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Pozwalają na wykonywanie obliczeń logicznych</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>Stanowią podstawę budowy procesora</span>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span>Przejście z architektury 32-bitowej do architektury 64-bitowej:</span>",
+      "id": 3062,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Miało na celu głównie przyspieszenie operacji logicznych",
+          "correct": false
+        },
+        {
+          "answer": "Miało miejsce w latach 60. XX wieku",
+          "correct": false
+        },
+        {
+          "answer": "Wiązało się z powstaniem nowych modeli procesorów",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Niezmiennik w metodzie Hoare'a:\n\n\n\n&nbsp;",
+      "id": 3063,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Może być sprawdzony przy pomocy systemów automatycznej weryfikacji",
+          "correct": true
+        },
+        {
+          "answer": "Musi być spełniony w dowolnym momencie wykonania programu",
+          "correct": false
+        },
+        {
+          "answer": "Musi być spełniony zawsze, gdy program dociera do linii kodu opisanej przez niezmiennik",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Które z poniższych operacji arytmetycznych spowodują błąd wykonania (przepełnienie lub inny) w procesorze 8-bitowym, zakładając reprezentację liczb całkowitych metodą uzupełnień do 2?",
+      "id": 3064,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "10 - 100",
+          "correct": false
+        },
+        {
+          "answer": "127 + 127",
+          "correct": true
+        },
+        {
+          "answer": "50 + 50",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Układy logiczne sekwencyjne (z pamięcią stanu):\n\n\n\n&nbsp;",
+      "id": 3065,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Powstają przez odpowiednie połączenie bramek logicznych",
+          "correct": true
+        },
+        {
+          "answer": "Występują w procesorze",
+          "correct": true
+        },
+        {
+          "answer": "Pozwalają na zapamiętanie informacji przez czas dłuższy niż 20 cykli zegarowych",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Kiedy maszyna wygrała z człowiekiem w szachy?",
+      "id": 3068,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "W ostatnich 10 latach",
+          "correct": false
+        },
+        {
+          "answer": "Ponad 15 lat temu",
+          "correct": true
+        },
+        {
+          "answer": "nigdy",
+          "correct": false
+        },
+        {
+          "answer": "W ostatnich 5 latach",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Arytmometr kontaktuje się z pamięcią procesora przez:",
+      "id": 3069,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "bufor",
+          "correct": false
+        },
+        {
+          "answer": "magistrale",
+          "correct": false
+        },
+        {
+          "answer": "rejestr",
+          "correct": true
+        },
+        {
+          "answer": "port",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Szybkość poboru danych z twardego dysku może zależeć od",
+      "id": 3158,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span>miejsca wpięcia dysku w płytę główną</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>Częstotliwości procesora</span>",
+          "correct": false
+        },
+        {
+          "answer": "Szybkości magistrali",
+          "correct": true
+        },
+        {
+          "answer": "Stopnia i sposobu jego zapełniania",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Procesory CISC w porównaniu z procesorami RISC",
+      "id": 3159,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "są nowocześniejsze",
+          "correct": false
+        },
+        {
+          "answer": "średnio zużywają więcej energii na wykonanie jednej instrukcji",
+          "correct": true
+        },
+        {
+          "answer": "są szybsze",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Aby określić złożoność średnią algorytmu musimy odnieść ją do",
+      "id": 3160,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "wszystkich możliwych do wyobrażenia algorytmów",
+          "correct": false
+        },
+        {
+          "answer": "konkretnego rozkładu pewnej zmiennej losowej",
+          "correct": true
+        },
+        {
+          "answer": "konkretnych danych",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Relacja \"Problem A jest sprowadzany do problemu B\" jest relacją",
+      "id": 3161,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "częściowego porządku",
+          "correct": false
+        },
+        {
+          "answer": "symetryczną",
+          "correct": false
+        },
+        {
+          "answer": "zwrotną",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Algorytm potęgowania binarnego",
+      "id": 3162,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "ma złożoność proporcjonalną do długości podstawy",
+          "correct": false
+        },
+        {
+          "answer": "ma złożoność proporcjonalną do logarytmu wykładnika",
+          "correct": true
+        },
+        {
+          "answer": "ma złożoność proporcjonalną do długości wykładnika w zapisie dziesiętnym",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Problemy NP-zupełne",
+      "id": 3163,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "są najtrudniejsze w klasie NP",
+          "correct": true
+        },
+        {
+          "answer": "można rozwiązać w czasie wielomianowym za pomocą znanych technik programowania dynamicznego",
+          "correct": false
+        },
+        {
+          "answer": "mają wielomianowy algorytm weryfikacji poprawności rozwiązania",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Aby użyć klucza publicznego przy szyfrowaniu danych, musi być on ogłoszony",
+      "id": 3164,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "tylko przez odbiorcę",
+          "correct": true
+        },
+        {
+          "answer": "zarówno przez nadawcę, jak i odbiorcę",
+          "correct": false
+        },
+        {
+          "answer": "tylko przez nadawcę",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Przerwania",
+      "id": 3165,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "są przydatne przy komunikacji procesora z rejestrami",
+          "correct": false
+        },
+        {
+          "answer": "Stosuje sie przy obsludze urządzeń zewnętrznych&nbsp;",
+          "correct": true
+        },
+        {
+          "answer": "Mogą być generowane przez procesy",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "w kodowaniu liczb rzeczywistych w kodzie uzupelnieniowym do 2",
+      "id": 3166,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "instrukcja y=x+y-y moze spowodowac blad",
+          "correct": false
+        },
+        {
+          "answer": "instrukcja y=x-y+y moze spowodowac blad",
+          "correct": false
+        },
+        {
+          "answer": "instrukcja y=-x moze spowodowac blad",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Mnożenie zmiennopozycyjne jest",
+      "id": 3167,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Dokładne",
+          "correct": false
+        },
+        {
+          "answer": "(nie pamietam odp, ale była zła)",
+          "correct": false
+        },
+        {
+          "answer": "Przemienne",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p>W arytmetyce zmiennoprzecinkowej przy każdym ustalonym kodowaniu:</p>",
+      "id": 3168,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Wszystkie kodowane liczby są wymierne",
+          "correct": true
+        },
+        {
+          "answer": "Maksymalna zakodowana liczba jest liczbą rzeczywistą",
+          "correct": true
+        },
+        {
+          "answer": "Minimalna zakodowana liczba jest liczbą rzeczywistą",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Następujące działania w kodzie uzupełnieniowym są poprawnie wykonane dla liczb całkowitych 8-bitowych",
+      "id": 2905,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "01111111 + 01111111 = 11111110",
+          "correct": false
+        },
+        {
+          "answer": "10101010 + 10101010 = 11010100",
+          "correct": false
+        },
+        {
+          "answer": "01111111 + 10000000 = 11111111",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Dodawanie stałopozycyjne jest",
+      "id": 2906,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "przemienne",
+          "correct": false
+        },
+        {
+          "answer": "rozdzielne względem mnożenia",
+          "correct": false
+        },
+        {
+          "answer": "dokładne",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Gdy dodajemy dwie liczby w systemie stałopozycyjnym, może się zdarzyć, że :",
+      "id": 3243,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Wynik będzie równy jednej z nich, mimo że żadnaz nich nie jest 0",
+          "correct": false
+        },
+        {
+          "answer": "wynik będzie zależał od kolejności podania argumentów",
+          "correct": false
+        },
+        {
+          "answer": "3 też błędna",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Pomysł skompilowania Pascala na nieistniejący procesor",
+      "id": 3244,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "nigdy nie zostal zrealizowany",
+          "correct": false
+        },
+        {
+          "answer": "spalil na panewce",
+          "correct": false
+        },
+        {
+          "answer": "umożliwiał kompilacje na P-code -prototyp wyrtualnych maszyn",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Komputer przeznaczony do zaopatrywania innych komputerów w oprogramowanie i inne zasoby, to",
+      "id": 3245,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Superkomputer",
+          "correct": false
+        },
+        {
+          "answer": "Serwer",
+          "correct": true
+        },
+        {
+          "answer": "Komputer Stacjonarny",
+          "correct": false
+        },
+        {
+          "answer": "Szeroko",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "W kodzie znak-moduł odwrotny",
+      "id": 3246,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "każda liczba ma jednoznaczne przedstawienie",
+          "correct": false
+        },
+        {
+          "answer": "aby zmienić wartość na przeciwną zmieniamy tylko pierwszy bit na przeciwny",
+          "correct": false
+        },
+        {
+          "answer": "jest więcej liczb ujemnych niż dodatnich",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "W procesorach Pentium",
+      "id": 3247,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Instrukcje są optymalizowane przez specjalny układ",
+          "correct": true
+        },
+        {
+          "answer": "Obliczanie zmiennopozycyjne wykonuje osobna jednostka arytmetyczna",
+          "correct": true
+        },
+        {
+          "answer": "Następuje fizyczne rozdzielenie danych i instrukcji (cache instrukcji i cache danych)<p></p>\n<p>&nbsp;</p>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Największe zniszczenia w systemach komputerowych powodują",
+      "id": 3248,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Błędy w programach",
+          "correct": true
+        },
+        {
+          "answer": "Włamywacze komputerowi",
+          "correct": false
+        },
+        {
+          "answer": "Hakerzy",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Koniami trojańskimi są:",
+      "id": 3249,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Chernobyl",
+          "correct": true
+        },
+        {
+          "answer": "Michał Anioł",
+          "correct": true
+        },
+        {
+          "answer": "Bomba czasowa",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<div class=\"module__title js-about-item-title\"><span class=\"module__title__link\">Jak program AlphaZero pokonał mistrza szachowego G.Kasparova?<br></span></div>",
+      "id": 3284,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Za pomocą korzystania z ogromnej bazy danych możliwych ruchów.",
+          "correct": true
+        },
+        {
+          "answer": "Za pomocą samouczącego się algorytmu przewidującego możliwości.",
+          "correct": false
+        },
+        {
+          "answer": "(?)Za pomocą losowych ruchów dezorientującuch przeciwnika.<p></p>\n<p>&nbsp;</p>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p class=\"MsoNormal\"><span>Duza złozoność algorytmów lub problemów algorytmicznych</span></p>",
+      "id": 3302,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span>moze byc przyczyną ich praktycznej bezuzytnosci&nbsp;</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>moze byc zaletą umozliwiającą np. szyfrowanie informacji&nbsp;</span>",
+          "correct": true
+        },
+        {
+          "answer": "<p class=\"MsoNormal\">moze sie przełozyć na pogorszenie dokładności obliczeń na</p>\n<p><span>liczbach</span></p>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p class=\"MsoNormal\">W systemie zmiennopozycyjnym, w którym cechę reprezentujemy za pomocą</p>\n<p><span>jednego bajtu, a mantysę za pomocą 20 bajtów</span></p>",
+      "id": 3303,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<p class=\"MsoNormal\"><span>wszystkie liczby całkowite z przedziału reprezentowalności są</span></p>\n<p class=\"MsoNormal\"><span>reprezentowane bez błędu</span></p>",
+          "correct": false
+        },
+        {
+          "answer": "<p class=\"MsoNormal\">każda z wartości z przedziału -8..7 może być reprezentowana,</p>\n<p><span>choć niektóre z błędem&nbsp;</span></p>",
+          "correct": false
+        },
+        {
+          "answer": "<p class=\"MsoNormal\">liczba tych wartości, które są reprezentowane bez błędu jest</p>\n<p><span>skończona&nbsp;</span></p>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p class=\"MsoNormal\">W maszynach grających w szachy na arcymistrzowskim poziomie korzysta się z :</p>\n<p>&nbsp;</p>",
+      "id": 3304,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span>wielu procesorów równolegle badających warianty&nbsp;</span>",
+          "correct": true
+        },
+        {
+          "answer": "<p class=\"MsoNormal\">losowo rozegranych milionów partii i statystycznym wyznaczeniu</p>\n<p><span>najlepszego ruchu na podstawie liczb wygranych</span></p>",
+          "correct": true
+        },
+        {
+          "answer": "<span>bazy danych typowych kombinacji w podobnych pozycjach&nbsp;</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span>Ułamek 2/2018 w systemie binarnym ma&nbsp;</span>",
+      "id": 3305,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span>rozwinięcie okresowe o długości okresu mniejszej od 1010&nbsp;</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>rozwinięcie okresowe o długości okresu większej lub równej 500</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>skończone rozwinięcie</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p class=\"MsoNormal\"><span>w systemie zmiennopozycyjnym, w którym cechę reprezentujemy za pomocą 12</span></p>\n<p class=\"MsoNormal\"><span>bitów , a mantysę za pomocą 64 bitów</span></p>",
+      "id": 3306,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<p class=\"MsoNormal\">każda z wartości z przedziału -8..7 może być reprezentowana,</p>\n<p><span>choć niektóre z błędem&nbsp;</span></p>",
+          "correct": true
+        },
+        {
+          "answer": "<p class=\"MsoNormal\">liczba tych wartości, które są reprezentowane bez błędu jest</p>\n<p><span>skończona&nbsp;</span></p>",
+          "correct": true
+        },
+        {
+          "answer": "<p class=\"MsoNormal\">wszystkie liczby całkowite z przedziału reprezentowalności są</p>\n<p class=\"MsoNormal\">reprezentowane bez błędu</p>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span>Program szachowy AlphaZero</span>",
+      "id": 3307,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span>Zwyciężył w meczu mistrza świata programów szachowych</span>",
+          "correct": true
+        },
+        {
+          "answer": "<p class=\"MsoNormal\">Zwyciężył w meczu Magnusa Carlsena - mistrza świata w szachach</p>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Wykorzystywał samouczące się sieci neuronowe&nbsp;</span>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p class=\"MsoNormal\"><span>W arytmetyce zmiennopozycyjnej procesora przy każdym ustalonym kodowaniu</span></p>\n<p class=\"MsoNormal\"><span>liczba liczb rzeczywistych reprezentowanych dokładnie jest</span></p>",
+      "id": 3308,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span>skończona&nbsp;</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>liczba dodatnich jest zawsze tyle samo co ujemnych</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>wszystkie reprezentowane wartości są wymierne&nbsp;</span>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span>Procesor używa bufora do komunikacji z</span>",
+      "id": 3309,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span>myszą</span>",
+          "correct": true
+        },
+        {
+          "answer": "<p class=\"MsoNormal\">pamięcią operacyjną</p>",
+          "correct": false
+        },
+        {
+          "answer": "<span>klawiaturą&nbsp;</span>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span>Twórcami kalkulatorów mechanicznych byli</span>",
+      "id": 3310,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">Wilhelm Schickard&nbsp;</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">Jacques de Vaucanson</span>",
+          "correct": false
+        },
+        {
+          "answer": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Immanuel Kant</span></p>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p class=\"MsoNormal\">Liczba 18/225 w systemie binarnym</p>\n<p>&nbsp;</p>",
+      "id": 3311,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span>ma skończone rozwinięcie</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>rozwinięcie okresowe o długości okresu większej od 10&nbsp;</span>",
+          "correct": true
+        },
+        {
+          "answer": "<p class=\"MsoNormal\">rozwinięcie okresowe o długości okresu mniejszej od 10</p>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p class=\"MsoNormal\">Przerwania lub żądania przerwania</p>\n<p>&nbsp;</p>",
+      "id": 3312,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span>mają priorytety</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>stosuje się do obsługi urządzeń zewnętrznych&nbsp;</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>mogą być generowane przez procesor&nbsp;</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p class=\"MsoNormal\">Buforów używa się przy transmisji danych z dysku</p>\n<p>&nbsp;</p>",
+      "id": 3313,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span>przy zapisie&nbsp;</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>przy odczycie&nbsp;</span>",
+          "correct": true
+        },
+        {
+          "answer": "<p class=\"MsoNormal\">tylko wtedy, gdy może to przyśpieszyć transmisje</p>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p class=\"MsoNormal\"><span>Algorytm Euklides 3 z wykorzystaniem testu parzystości ma złożoność</span></p>",
+      "id": 3314,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<p class=\"MsoNormal\">sześcienną ze względu na rozmiar argumentów</p>",
+          "correct": false
+        },
+        {
+          "answer": "<p class=\"MsoNormal\">wykładniczą ze względu na rozmiar argumentów</p>",
+          "correct": false
+        },
+        {
+          "answer": "<p class=\"MsoNormal\">liniową ze względu na rozmiar argumentów</p>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p class=\"MsoNormal\"><span>Jeżeli kupujemy komputer czterordzeniowy i czytamy, że jest taktowany zegarem</span></p>\n<p class=\"MsoNormal\"><span>4GHZ, to oznacza, że</span></p>",
+      "id": 3315,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<p class=\"MsoNormal\">zdaniem producenta jego średnia efektywność jest taka, jak gdyby</p>\n<p><span>jeden procesor był taktowany co jedną czteromilionową sekundy</span></p>",
+          "correct": false
+        },
+        {
+          "answer": "<p class=\"MsoNormal\">każdy z procesorów dostaje sygnał co jedną miliardową część</p>\n<p class=\"MsoNormal\">sekundy</p>",
+          "correct": false
+        },
+        {
+          "answer": "<p class=\"MsoNormal\">zegar do każdego z rdzeni wysyła sygnał co jedną</p>\n<p><span>czteromiliardową sekundy&nbsp;</span></p>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p class=\"MsoNormal\"><span>Duża złożoność algorytmów lub problemów algorytmicznych</span></p>\n<p class=\"MsoNormal\">może być przeczyną niemożliwości zakodowania rozwiązania w języku</p>",
+      "id": 3316,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<p class=\"MsoNormal\">programowania wysokiego poziomu</p>",
+          "correct": false
+        },
+        {
+          "answer": "<span>może być przyczyną ich praktycznej bezużyteczności</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>może być zaletą umożliwiającą np. szyfrowanie informacji&nbsp;</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p class=\"MsoNormal\"><span>Zabezpieczenie przed podglądaniem przy transmisji numeru karty kredytowej</span></p>\n<p class=\"MsoNormal\"><span>przez sieć uzyskuje się przez</span></p>",
+      "id": 3317,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<p class=\"MsoNormal\">parametry biometryczne odbiorcy</p>",
+          "correct": false
+        },
+        {
+          "answer": "<p class=\"MsoNormal\">parametry biometryczne nadawcy</p>",
+          "correct": false
+        },
+        {
+          "answer": "<p class=\"MsoNormal\">hasla jednorazowe</p>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p class=\"MsoNormal\"><span>Czy poprawne są poniższe działania w systemie zmiennopozycyjnym z wykładu?</span></p>",
+      "id": 3318,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<p class=\"MsoNormal\">010 0111 + 011 0100 = 011 0111</p>",
+          "correct": false
+        },
+        {
+          "answer": "<p class=\"MsoNormal\">101 0101 + 110 0100 = 111 0100</p>",
+          "correct": false
+        },
+        {
+          "answer": "<p class=\"MsoNormal\">001 0101 + 110 0110 = 111 0110</p>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p class=\"MsoNormal\">160 <span>(101) jest okresem rozwinięcia liczby</span></p>",
+      "id": 3319,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span>3/7&nbsp;</span>",
+          "correct": true
+        },
+        {
+          "answer": "6/7",
+          "correct": true
+        },
+        {
+          "answer": "1/7",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p class=\"MsoNormal\"><span>kwadratury, czyli algorytmy przyblizania calek oznaczonych metodami</span></p>\n<p class=\"MsoNormal\"><span>przyblizonymi charakteryzuja sie tym, ze</span></p>",
+      "id": 3320,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<p class=\"MsoNormal\">obliczaja przyblizona postac funkcji pierwotnej i odejmuja jej wartosc w</p>\n<p><span>poczatku przedzialu od wartosci z konca przedzialu</span></p>",
+          "correct": false
+        },
+        {
+          "answer": "<p class=\"MsoNormal\">uzyskiwanie coraz lepszych wynikow przez zwiekszanie liczby</p>\n<p class=\"MsoNormal\">punktow przedzialu badanego odcinka konczy sie w pewnym</p>\n<p class=\"MsoNormal\">momencie i ze wzgledu na kumulowanie sie bledow zaokraglen dalsze</p>\n<p class=\"MsoNormal\">zwiekszanie ich liczby nie tylko powoduje wzrost kosztu</p>\n<p class=\"MsoNormal\">obliczeniowego, ale wrecz moze spowodowac pogorszenie wyniku</p>",
+          "correct": false
+        },
+        {
+          "answer": "<p class=\"MsoNormal\"><span>stosujac jedna z metod wyznaczania calki Riemanna: przyblizaja</span></p>\n<p class=\"MsoNormal\"><span>wartosc pola przez sumy prostokatow o malych podstawach</span></p>\n<p class=\"MsoNormal\"><span>otrzymujemy tym lepsze wyniki, im krotsze podstawy</span></p>\n<p class=\"MsoNormal\"><span>stosujac jedna z metod wyznaczania calki Riemanna: przyblizaja</span></p>\n<p class=\"MsoNormal\"><span>wartosc pola przez sumy prostokatow o malych podstawach</span></p>\n<p class=\"MsoNormal\"><span>otrzymujemy tym lepsze wyniki, im krotsze podstawy</span></p>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p class=\"MsoNormal\"><span>Następujące działania w kodzie uzupełnieniowym są poprawnie wykonane dla</span></p>\n<p class=\"MsoNormal\"><span>liczb całkowitych 8-bitowych</span></p>",
+      "id": 3321,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span>01111111 + 01111111 = 11111110</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>10000000 + 00000001 = 10000001&nbsp;</span>",
+          "correct": false
+        },
+        {
+          "answer": "<p class=\"MsoNormal\">11110000 + 10001111 = 11111111</p>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p class=\"MsoNormal\"><span>Następujące działania w kodzie uzupełnieniowym sa poprawnie wykonane dla</span></p>\n<p class=\"MsoNormal\"><span>liczb całkowitych 8 bitowych</span></p>",
+      "id": 3322,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<p class=\"MsoNormal\">11110000 + 10001111 = 11111111</p>",
+          "correct": false
+        },
+        {
+          "answer": "<span>01111111 + 10000000 = 11111111&nbsp;</span>",
+          "correct": true
+        },
+        {
+          "answer": "<p class=\"MsoNormal\">10000000 + 10000000 = 00000000</p>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span>1 MB, to jest dokładnie</span>",
+      "id": 3201,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "10^6&nbsp;<span>bajtów</span>",
+          "correct": false
+        },
+        {
+          "answer": "2^20&nbsp;<span>bajtów</span>",
+          "correct": true
+        },
+        {
+          "answer": "2^23&nbsp;<span>bitów</span>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Sieci neuronowe potrafią",
+      "id": 2907,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "nauczyć się rozpoznawania wzorców",
+          "correct": true
+        },
+        {
+          "answer": "wymyślać nowe algorytmy",
+          "correct": false
+        },
+        {
+          "answer": "działać nawet wtedy, gdy część sieci ulegnie zniszczeniu",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Dowód Turinga nierozstrzygalności problemu stopu",
+      "id": 2908,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "wymaga możliwości skopiowania fragmentu dancyh pamięci",
+          "correct": false
+        },
+        {
+          "answer": "zaczyna się od założenia, że problem stopu da się rozwiązać",
+          "correct": true
+        },
+        {
+          "answer": "był przez wiele lat uważany za niepoprawny",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Przerzutnik służy do",
+      "id": 2909,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "konwersji danych",
+          "correct": false
+        },
+        {
+          "answer": "wzmacniania sygnału przy transmisji danych",
+          "correct": false
+        },
+        {
+          "answer": "przekierowywania ruchu na masgistrali",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span>Maszyna Turinga o poniższej specyfikacji:</span><p></p>\n<div><span>(START,#)-&gt;(STOP,#,right)<br>(START,0)-&gt;(A,0,right)<br>(START,1)-&gt;(B,1,right)<br><br>(A,#)-&gt;(A,0,right)<br>(A,0)-&gt;(A,0,right)<br>(A,1)-&gt;(A,0,right)<br><br>(B,#)-&gt;(B,1,right)<br>(B,0)-&gt;(B,1,right)<br>(B,1)-&gt;(B,1,right)</span><br><br></div>\n<p><span>realizuje zadanie:</span>\n          </p>",
+      "id": 3030,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span>którego działanie może nie kończyć się.</span>",
+          "correct": true
+        },
+        {
+          "answer": "zamiany każdego napotkanego znaku, za wyjątkiem znaku # na pozycji startowej, na wartość znaku znajdującego się na pozycji startowej.",
+          "correct": true
+        },
+        {
+          "answer": "które w skończonej liczbie przypadków jest skończone.",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "W maszynach grających w (?) arcymistrzowskim poziomie (?)",
+      "id": 3051,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "bibliotek otwarć szachowych i końcówek",
+          "correct": true
+        },
+        {
+          "answer": "strategii alfa-beta",
+          "correct": true
+        },
+        {
+          "answer": "współpracy z mistrzem w czasie rozgrywania partii",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "problem posta:",
+      "id": 3052,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "mozna sprowadzić do problemu stopu",
+          "correct": true
+        },
+        {
+          "answer": "ma rozwiazanie o koszcie sz.&nbsp; wielomianowym",
+          "correct": false
+        },
+        {
+          "answer": "ma rozwiazanie o koszcie sz. wykładniczym",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "W jakiej dziedzinie komputer wygral z mistrzami swiata:",
+      "id": 3054,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "W warcaby&nbsp;",
+          "correct": true
+        },
+        {
+          "answer": "W go",
+          "correct": true
+        },
+        {
+          "answer": "W szachy&nbsp;",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Fragmentacja nie dotyczy:&nbsp;",
+      "id": 3172,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "dysku SSD",
+          "correct": true
+        },
+        {
+          "answer": "dysku twardego",
+          "correct": false
+        },
+        {
+          "answer": "pendrive'a",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Rozważmy algorytm Kruskala w wersji:<p></p>\n<ul>\n<li>z pomocniczą kolejką priorytetową zaimplementowaną w kopcu-drzewie binarnym,</li>\n<li>operacją budowy kolejki priorytetowej PQConstruct zgodną z szybkim algorytmem konstrukcji kopca-drzewa binarnego HeapFastConstruct,</li>\n<li>z pomocniczą strukturą Find-Union zaimplementowaną w drzewie n-arnym z balansowaniem i kompresją ścieżek,</li>\n</ul>\n<p>postaci:</p>\n<p>&nbsp;</p>\n<p><img src=\"d4fe4e69-8cc2-5ee6-8de0-14a4259febba.gif\" alt=\"\" data-zdaj-se=\"true\"></p>\n<p>dla grafu :</p>\n<ul>\n<li>zbiór wierzchołków grafu ,</li>\n<li>zbiór krawędzi grafu zadany tablicą list incydencji:\n<ul>\n<li></li>\n<li></li>\n<li></li>\n<li></li>\n<li></li>\n<li></li>\n<li></li>\n<li></li>\n</ul>\n</li>\n</ul>\n<p>przedstawionego na poniższym rysunku.</p>\n<p>&nbsp;</p>\n<p><img src=\"ae276246-ccba-50af-b6ef-7d62133f455c.gif\" alt=\"\" data-zdaj-se=\"true\"></p>\n<p>Które z poniższych zdań jest prawdziwe? Uwaga! W przypadku niejednoznacznej możliwości wyboru krawędzi, jako pierwszą wybieramy krawędź, której etykiety wierzchołków krańcowych w kolejności niemalejącej tworzą mniejszą liczbę naturalną.\n          </p>",
+      "id": 3498,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Maksymalna waga krawędzi tworzącej otrzymane drzewo rozpinające grafu  jest równa co najwyżej",
+          "correct": false
+        },
+        {
+          "answer": "Kolejność akceptowania krawędzi grafu do drzewa rozpinającego w trakcie wykonania rozważanego algorytmu jest następująca:",
+          "correct": true
+        },
+        {
+          "answer": "Liczba krawędzi grafu odrzuconych (ze względu na możliwość utworzenia cyklu) w trakcie konstrukcji drzewa rozpinającego, tuż po ustaleniu jego finalnej postaci, jest równa dokładnie",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Rolą kopca systemowego jest:",
+      "id": 3454,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "archiwizacja danych",
+          "correct": false
+        },
+        {
+          "answer": "udzielanie odpowiedzi na zapytanie o dostępności segmentu pamięci o żądanej wielkości",
+          "correct": true
+        },
+        {
+          "answer": "efektywna rezerwacja i zwalnianie zaalokowanej pamięci dyanmicznej",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "W kodzie znak-moduł odwrotny dla liczb całkowitych:",
+      "id": 3455,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "jedyną operacją niepowodującą błędu jest dzielenie przez zero",
+          "correct": false
+        },
+        {
+          "answer": "istnieją dwie interpretacje zera",
+          "correct": false
+        },
+        {
+          "answer": "można zanegować każdą liczbę negując wszystkie bity",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Uniwersalna maszyna Turinga:",
+      "id": 3456,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "potrafi wykonać swój własny kod",
+          "correct": false
+        },
+        {
+          "answer": "potrawi wykonać kod dowolnej maszyny Turinga dla dowolnych danych",
+          "correct": true
+        },
+        {
+          "answer": "rozumie programy napisane w dowolnym języku programowania",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Pamięć wirtualna to kocnepcja pozwalająca na:",
+      "id": 3457,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "oprogramowanie rzeczywistości wirtualnej",
+          "correct": false
+        },
+        {
+          "answer": "korzystanie z zewnętrznych nośników pamięci w celu rozszerzenia pamięci operacyjnej",
+          "correct": false
+        },
+        {
+          "answer": "używanie większej ilości pamięci, niż się faktycznie mieści w RAM",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Aby zaimplementować mechanizm rekursji używa się:",
+      "id": 3458,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "stosu systemowego",
+          "correct": false
+        },
+        {
+          "answer": "kopca systemowego",
+          "correct": true
+        },
+        {
+          "answer": "buforów",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Notacja&nbsp;Ο",
+      "id": 3459,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "definiuje nieskończoną klasę funkcji ze zbioru liczb naturalnych w zbiór liczb rzeczywistych nieujemnych",
+          "correct": false
+        },
+        {
+          "answer": "pozwala uprościć obliczenia złożoności przez podanie asypmtotycznego ograniczenia dolnego",
+          "correct": false
+        },
+        {
+          "answer": "definiuje konkretną funkcje ze zbioru liczb naturalnych w zbiór liczb rzeczywistych nieujemnych&nbsp;",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Maszynę turinga programujemy&nbsp;",
+      "id": 3460,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "za pomocą kart perforowanych Holleitha",
+          "correct": true
+        },
+        {
+          "answer": "w ogóle nie trzeba programować maszyny turinga",
+          "correct": false
+        },
+        {
+          "answer": "definiująć graf stanów i przejść między nimi",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Programowanie obiektowe&nbsp;",
+      "id": 3461,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "wymaga istnienia programu nadzorującego, który decyduje, któremu obiektowi pozwolić na wykonanie kolejnej instrukcji",
+          "correct": false
+        },
+        {
+          "answer": "nadaje się do programowania procesów współbieżnych",
+          "correct": true
+        },
+        {
+          "answer": "pozwala wdrożyć mechanizm dziedziczenia w definicjach klas",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Następujące działania są poprawne w jedno bajtowym kodzie uzupełniającym",
+      "id": 3462,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "10101010+10101010=01010100",
+          "correct": false
+        },
+        {
+          "answer": "11111111+00000001=00000000",
+          "correct": false
+        },
+        {
+          "answer": "11111111+11111111=11111110",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Heksadecymalnie&nbsp;",
+      "id": 3463,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "FA, to binarnie 11111010",
+          "correct": true
+        },
+        {
+          "answer": "89, to binarnie 10001001",
+          "correct": true
+        },
+        {
+          "answer": "11, to binarnie 00000011",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Mechanizm przerwań",
+      "id": 3464,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "może być uruchomiony przez program",
+          "correct": false
+        },
+        {
+          "answer": "umożliwia wieloprocesowość",
+          "correct": true
+        },
+        {
+          "answer": "korzysta z kolejki priorytetowej",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Stosująć strategię alfa-beta",
+      "id": 3465,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "rozważamy arianty złożone z następujących po sobie ruchów",
+          "correct": false
+        },
+        {
+          "answer": "dostajemy ten sam wynik, co w strategii minimaksowej, tyle że szybciej",
+          "correct": false
+        },
+        {
+          "answer": "korzystamy ze statycznej funkcji oceny pozycji",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Rozważmy algorytm AVLConstruct postaci:<p></p>\n<p>&nbsp;</p>\n<p><img src=\"c039f2c1-84d8-584f-ac4d-e83cb209ea1f.gif\" alt=\"\" data-zdaj-se=\"true\"></p>\n<p>Niech drzewo  będzie rezultatem działania algorytmu AVLConstruct dla danych wejściowych:</p>\n<ul>\n<li>tablica elementów .</li>\n</ul>\n<p>Które z poniższych zdań jest prawdziwe?\n          </p>",
+      "id": 3499,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Łączna liczba rotacji pojedynczych w lewo wykonanych w trakcie budowy drzewa  jest równa dokładnie",
+          "correct": true
+        },
+        {
+          "answer": "Etykiety wierzchołków drzewa  wypisane w kolejności PostOrder tworzą ciąg:",
+          "correct": true
+        },
+        {
+          "answer": "Liczba wierzchołków zewnętrznych drzewa  jest równa dokładnie",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p class=\"MsoNormal\">Algorytm Euklides2 okazał się</p>",
+      "id": 3570,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "- istotnie szybszy od algorytmu Euklides1 z odejmowaniem dzięki temu, że liczby Fibonacciego rosną wykładniczo szybko",
+          "correct": true
+        },
+        {
+          "answer": "<p class=\"MsoNormal\">- istotnie szybszy od algorytmu Euklides1 z odejmowaniem dzięki temu, że liczby Fibonacciego rosną logarytmicznie wolno</p>",
+          "correct": true
+        },
+        {
+          "answer": "<p class=\"MsoNormal\">- istotnie szybszy od algorytmy Euklides1 z odejmowaniem dzięki temu, że indeksy Fibonacciego rosną wykładniczo szybko ze względu na ich wartości</p>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p class=\"MsoNormal\">Kwadratury, czyli algorytmy obliczania całek oznaczonych metodami przybliżonymi charakteryzują się tym, że</p>",
+      "id": 3571,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<p class=\"MsoNormal\">Stosując jedną z metod wyznaczania całki Riemanna: przybliżają wartość pola przez sumy prostokątów o małych podstawach otrzymujemy tym lepsze wyniki, im krótsze podstawy</p>",
+          "correct": true
+        },
+        {
+          "answer": "<p class=\"MsoNormal\">uzyskiwanie coraz lepszych wyników przez zwiększanie liczby punktów przedziału badanego odcinka kończy się w pewnym momencie i ze względu na kumulowanie się błędów zaokrągleń dalsze zwiększanie ich liczby nie tylko powoduje wzrost kosztu obliczeniowego, ale wręcz może spowodować pogorszenie wyniku</p>",
+          "correct": false
+        },
+        {
+          "answer": "<p class=\"MsoNormal\">obliczają przybliżoną postać funkcji pierwotnej i odejmują jej wartość w początku przedziału od wartości z końca przedziału</p>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p class=\"MsoNormal\">Następujące działania w kodzie uzupełnieniowym są poprawnie wykonane dla liczb całkowitych 8-bitowych</p>",
+      "id": 3572,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "10000000 + 10000000 = 00000000<p></p>\n<p class=\"MsoNormal\">&nbsp;</p>",
+          "correct": false
+        },
+        {
+          "answer": "<p class=\"MsoNormal\">10000000 + 00000001 = 10000001</p>",
+          "correct": true
+        },
+        {
+          "answer": "<p class=\"MsoNormal\">01111111 + 10000000 = 11111111</p>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p class=\"MsoNormal\">Pesymistyczną złożoność czasową algorytmów</p>",
+      "id": 3573,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span>mierzymy w sekundach</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>odnosimy do rozmiaru najbardziej złośliwych danych</span><span></span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>wyrażamy w liczbie wykonań instrukcji dominującej</span>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p class=\"MsoNormal\">Notacja <span>ɵ</span></p>",
+      "id": 3574,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span>pozwala uprościć obliczenia złożoności przez podanie asymptotycznego ograniczenia zarówno górnego, jak i dolnego</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>definiuje nieskończoną klasę funkcji ze zbioru liczb naturalnych w zbiór liczb rzeczywistych nieujemnych</span>",
+          "correct": true
+        },
+        {
+          "answer": "<p class=\"MsoNormal\"><span>pozwala uprościć obliczenia złożoności przez podanie asymptotycznego ograniczenia dolnego</span></p>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p class=\"MsoNormal\">Spośród konstruktorów kalkulatorów wybitnymi filozofami byli</p>",
+      "id": 3575,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span>Blaise Pascal</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>Wilhelm Schickard</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Abraham Stern</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p class=\"MsoNormal\">Pierwowzorem współczesnych architektur komputerów była</p>",
+      "id": 3576,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span>zaprojektowana przez Charlesa Babbage’a maszyna analityczna</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>zaprojektowana przez Farkkasa von Kempelena maszyna grająca w szachy</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>zaprojektowana przez Farkkasa von Kempelena maszyna grająca w szachy</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p class=\"MsoNormal\">Komputer Eniac</p>",
+      "id": 3577,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<p class=\"MsoNormal\"><span>pracował w systemie dwójkowym</span></p>",
+          "correct": true
+        },
+        {
+          "answer": "<p class=\"MsoNormal\">miał pamięć RAM</p>\n<p class=\"MsoNormal\">&nbsp;</p>",
+          "correct": true
+        },
+        {
+          "answer": "<p class=\"MsoNormal\"><span>był zrealizowany w technologii lampowej</span></p>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p class=\"MsoNormal\">W omawianym na wykładzie procesorze o 3 biach cechy i 4 mantysy</p>",
+      "id": 3578,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span>5/16 ma reprezentację 111 0101</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>2 ma postać 000 0010</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>001 0111 + 101 01111 = 001 0111</span>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p class=\"MsoNormal\">W arytmetyce zmiennopozycyjnej procesora przy każdym ustalonym kodowani</p>",
+      "id": 3579,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<p class=\"MsoNormal\">wszystkie reprezentowane wartości są wymierne</p>",
+          "correct": true
+        },
+        {
+          "answer": "<span>najmniejszą liczbą jest zero</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>istnieje największa liczba rzeczywista</span>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p class=\"MsoNormal\">Do magistrali podłącza się</p>",
+      "id": 3580,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<strong><span>procesor</span></strong>",
+          "correct": true
+        },
+        {
+          "answer": "kabel zasilający",
+          "correct": false
+        },
+        {
+          "answer": "pamięć",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Czy poprawne są poniższe działania w systemie zmiennopozycyjnym z wykładu?",
+      "id": 3581,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "110 0100 + 110 0100 = 111 0100",
+          "correct": true
+        },
+        {
+          "answer": "011 0111 + 101 0111 = 011 0111",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Następujące działania w kodzie uzupełnieniowym są poprawnie wykonane dla liczb całkowitych 8-bitowych",
+      "id": 3582,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "01111111 + 10000000 = 11111111",
+          "correct": true
+        },
+        {
+          "answer": "11111111 + 00000001 = 00000000",
+          "correct": true
+        },
+        {
+          "answer": "10000000 + 10000000 = 00000000",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Mnożenie zmiennopozycyjne jest",
+      "id": 3583,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "przemienne",
+          "correct": true
+        },
+        {
+          "answer": "łączne",
+          "correct": false
+        },
+        {
+          "answer": "rozdzielne względem dodawania",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Program szachowy AlphaZero",
+      "id": 3584,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "zwycięzył w meczu Magnusa Carlsena - mistrza świata w szachach",
+          "correct": false
+        },
+        {
+          "answer": "wynorzystywał samouczące się sieci neuronowe",
+          "correct": true
+        },
+        {
+          "answer": "korzystał z tworzonej latarni ogromnej bazy diebiutów i końcówek szachowych",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Charles Bobbage budował swoją drugą maszynę różnicową aby",
+      "id": 3585,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "tabularyzować wartości wielomianów, które przybliżają znane funkcje",
+          "correct": true
+        },
+        {
+          "answer": "szybko dodawać i odejmować mechanicznie",
+          "correct": false
+        },
+        {
+          "answer": "zaimponować lady Adzie Lovelance",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "W kodowaniu liczb rzeczywistych w kodzie uzupełnieniowym do 2",
+      "id": 3586,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "instrukcja y=-x; może spowodować błąd",
+          "correct": true
+        },
+        {
+          "answer": "instrukcja y=x-y; może spowodować błąd przepełnienia",
+          "correct": true
+        },
+        {
+          "answer": "instrukcja y=x-y+y; może spowodować błąd",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Nigdy nie uzyskamy przepełnienia zmiennopozycyjnego w kodzie uzupełnieniowym do 2",
+      "id": 3587,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "dodając liczbę dodatnią do ujemnje",
+          "correct": true
+        },
+        {
+          "answer": "negując liczbę",
+          "correct": false
+        },
+        {
+          "answer": "odejmując liczbę ujemną od ujemnej",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Następujące działania w kodzie uzupełnieniowym są poprawnie wykonywane dla liczb całkowitych 8-bitowych",
+      "id": 3588,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "11110000 + 10001111 = 11111111",
+          "correct": false
+        },
+        {
+          "answer": "01111111 + 10000000 = 11111111",
+          "correct": true
+        },
+        {
+          "answer": "01111111 + 01111111 = 11111110",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Podstawowymi problemami Charlesa Babbagea były",
+      "id": 3589,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "trudny charakter",
+          "correct": true
+        },
+        {
+          "answer": "brak pieniędzy",
+          "correct": true
+        },
+        {
+          "answer": "kobieta",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Prędkość pracy twardego dysku jest zależna od",
+      "id": 3590,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "liczby talerzy",
+          "correct": false
+        },
+        {
+          "answer": "zgodności parametrów dysku z czasem odświeżania pamięci",
+          "correct": true
+        },
+        {
+          "answer": "liczby cylindrów",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Prędkość pobierania danych z twardego dysku zależy od",
+      "id": 3591,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "prędkości obrotowej dysku",
+          "correct": true
+        },
+        {
+          "answer": "szybkości ruchu ramienia głowic",
+          "correct": true
+        },
+        {
+          "answer": "szybkości magistrali",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Pesymistyczną złożoność czasową algorytmów",
+      "id": 3592,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "uzależniamy od prędkości zegara procesora",
+          "correct": false
+        },
+        {
+          "answer": "wyrażamy w liczbie wykonań instrukcji dominującej",
+          "correct": true
+        },
+        {
+          "answer": "odnosimy do rozmiaru najbardziej złośliwych danych",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Pierwowzorem współczesnych architektur komputerów była",
+      "id": 3593,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "zaprojektowana przez Charlesa Babbagea maszyna analityczna",
+          "correct": true
+        },
+        {
+          "answer": "zaprojektowana przez Charlesa Babbagea pierwsza maszyna różnicowa",
+          "correct": false
+        },
+        {
+          "answer": "zaprojektowana przez Farkasa von Kempelena maszyna grająca w szachy",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Uniwersalna maszyna Turinga",
+      "id": 3594,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "rozumie programy napisane w dowolnym języku programowania",
+          "correct": false
+        },
+        {
+          "answer": "potrafi wykonać kod dowolnej maszyn Turinga dla dowolnych danych",
+          "correct": true
+        },
+        {
+          "answer": "potrafi wykonać swój własny kod",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Aby zaimplementować mechanizm rekursji używa się",
+      "id": 3595,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "stosu systemowego",
+          "correct": true
+        },
+        {
+          "answer": "przerwań",
+          "correct": false
+        },
+        {
+          "answer": "rekordów aktywacji",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Programowanie obiektowe",
+      "id": 3596,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "pozwala wdrożyć mechanizm dziedziczenia w definicjach klas",
+          "correct": true
+        },
+        {
+          "answer": "umożliwia niezależną kompilację obiektów",
+          "correct": true
+        },
+        {
+          "answer": "nadaje się do oprogramowania procesów współbieżnych",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Dodawanie zmiennopozycyjne",
+      "id": 3597,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "może dać wynik równy jednemu z argumentów, mimo że żaden nie jest zerem",
+          "correct": true
+        },
+        {
+          "answer": "daje zawsze ten sam wynik, jak gdy podamy oba argumenty w odwrotnej kolejności",
+          "correct": true
+        },
+        {
+          "answer": "jest rozdzielne względem mnożenia",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "W omawianym na wykładzie procesorze o 3 bitach cechy i 4 mantysy",
+      "id": 3598,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "001 0111 + 101 0111 = 001 0111",
+          "correct": true
+        },
+        {
+          "answer": "największą liczbą reprezentowaną jest 7, a najmniejszą -8",
+          "correct": true
+        },
+        {
+          "answer": "5/16 ma reprezentację 111 0101",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Reprezentujemy liczbę rzeczywistą za pomocą 1 bajtu cechy i 7 bajtów mantysy w kodzie U2 z ukrytym jednym bitem",
+      "id": 3599,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "wszystkie liczby całkowite w zakresie reprezentowalności są reprezentowane dokładzie",
+          "correct": false
+        },
+        {
+          "answer": "największa reprezentowana liczba jest większa od najmniejszej dodatniej ponad&nbsp;<span>10</span><sup>30</sup>&nbsp;razy",
+          "correct": true
+        },
+        {
+          "answer": "między każdymi dwiema liczbami istnieje liczba dokładnie reprezentowana i różna od nich",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Turek - automar szachowy von Kemplena",
+      "id": 3600,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "był pierwszą maszyną umiejącą samodzielnie podejmować decyzje",
+          "correct": false
+        },
+        {
+          "answer": "wykonywał fizycznie ruchy na szachownicy",
+          "correct": true
+        },
+        {
+          "answer": "wymagał operatora dobrze grającego w szachy",
+          "correct": true
+        }
+      ],
+      "comments": []
+    }
+  ],
+  "updatedAt": 1717800145540
+}
