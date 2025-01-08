@@ -7,18 +7,18 @@ document.addEventListener("DOMContentLoaded", () => {
     const prevButton = document.getElementById("prevButton");
     const nextButton = document.getElementById("nextButton");
 
-    // Load the last question index from Local Storage
+
     function loadLastQuestionIndex() {
         const savedIndex = localStorage.getItem("currentQuestionIndex");
         return savedIndex ? parseInt(savedIndex, 10) : 0;
     }
 
-    // Save the current question index to Local Storage
+
     function saveCurrentQuestionIndex(index) {
         localStorage.setItem("currentQuestionIndex", index);
     }
 
-    // Fetch JSON data
+    // Fetch
     async function loadQuizData() {
         try {
             const response = await fetch("tak.json"); // Ścieżka do pliku JSON
@@ -43,7 +43,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     }
 
-    // Load a specific question
+
     function loadQuestion(index) {
         if (!quizData || !quizData[index]) {
             console.error("Invalid question index:", index);
@@ -55,10 +55,10 @@ document.addEventListener("DOMContentLoaded", () => {
         const questionData = quizData[index];
         questionElement.textContent = `${index + 1}. ${questionData.question}`;
 
-        // Clear existing answers
+
         answersElement.innerHTML = "";
 
-        // Populate answers
+
         questionData.answers.forEach((answer, i) => {
             const answerButton = document.createElement("button");
             answerButton.textContent = answer.answer;
@@ -70,7 +70,7 @@ document.addEventListener("DOMContentLoaded", () => {
             answersElement.appendChild(listItem);
         });
 
-        // Update navigation buttons
+   
         prevButton.disabled = index === 0;
         nextButton.disabled = index === quizData.length - 1;
 
@@ -78,7 +78,7 @@ document.addEventListener("DOMContentLoaded", () => {
         saveCurrentQuestionIndex(index);
     }
 
-    // Event listeners for navigation buttons
+
     prevButton.addEventListener("click", () => {
         if (currentQuestionIndex > 0) {
             currentQuestionIndex--;
@@ -95,7 +95,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
 
-    // Event listener for keyboard
+
     document.addEventListener("keydown", (event) => {
         if (event.key === "ArrowLeft") { // Obsługa strzałki w lewo
             if (currentQuestionIndex > 0) {
@@ -115,11 +115,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
 
-    // Save state on page unload
     window.addEventListener("beforeunload", () => {
         saveCurrentQuestionIndex(currentQuestionIndex);
     });
 
-    // Load quiz data on page load
     loadQuizData();
 });
